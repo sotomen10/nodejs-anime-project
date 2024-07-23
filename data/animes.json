@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Ranma 1/2",
+    "genre": "Comedia",
+    "studioId": 1
+  },
+  {
+    "id": 2,
+    "title": "Inuyasha",
+    "genre": "Aventura",
+    "studioId": 1
+  },
+  {
+    "id": 3,
+    "title": "Urusei Yatsura (Lamu)",
+    "genre": "Comedia",
+    "studioId": 1
+  },
+  {
+    "id": 4,
+    "title": "Naruto",
+    "genre": "Acción",
+    "studioId": 2
+  },
+  {
+    "id": 5,
+    "title": "Bleach",
+    "genre": "Acción",
+    "studioId": 2
+  },
+  {
+    "id": 6,
+    "title": "One Piece",
+    "genre": "Acción",
+    "studioId": 2
+  },
+  {
+    "id": 7,
+    "title": "Attack on Titan",
+    "genre": "Acción",
+    "studioId": 3
+  },
+  {
+    "id": 8,
+    "title": "Kabaneri of the Iron Fortress",
+    "genre": "Acción",
+    "studioId": 3
+  },
+  {
+    "id": 9,
+    "title": "The Promised Neverland (Yakusoku no Neverland)",
+    "genre": "Misterio",
+    "studioId": 3
+  }
+]

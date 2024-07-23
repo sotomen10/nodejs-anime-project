@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-anime-project",
+  "version": "1.0.0",
+  "description": "1. **Inicialización de nodes en package.json**",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+  
+}

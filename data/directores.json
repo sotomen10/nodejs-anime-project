@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Hayao Miyazaki"
+    },
+    {
+        "id": 2,
+        "name": "Goro Miyazaki"
+    },
+    {
+        "id": 3,
+        "name": "Mamoru Hosoda"
+    },
+    {
+        "id": 4,
+        "name": "Masashi Kishimoto"
+    },
+    {
+        "id": 5,
+        "name": "Noriyuki Abe"
+    },
+    {
+        "id": 6,
+        "name": "Konosuke Uda"
+    },
+    {
+        "id": 7,
+        "name": "Tetsuro Araki"
+    },
+    {
+        "id": 8,
+        "name": "Tetsuro Kodama"
+    },
+    {
+        "id": 9,
+        "name": "Mamoru Kanbe"
+    }
+]
