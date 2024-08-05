@@ -1,6 +1,6 @@
 import { Router } from 'express';
 // como estamos trabajando con promesas importamos promises as fs y utilizamos el fs con asincronismo ejemplo: fs.readFile
-//Si fuera sincronico tendriamos que inportar por ejemplo readFileSync y tulizarlo readFileSync();
+//Si fuera sincronico tendriamos que importar por ejemplo readFileSync y utlizar readFileSync();
 import { promises as fs } from 'fs';
 // importamos el modulo path que esta incoporado en Node.js el primer 'path' es el módulo que se esta importando y el segundo especifica la fuente del módulo
 //proporciona utilidades para trabajar con rutas de archivos y directorios
